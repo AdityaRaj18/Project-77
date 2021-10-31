@@ -1,0 +1,10 @@
+body {
+   background-color: aquamarine; 
+}
+p {
+    font-family: cursive;
+}
+hr {
+    height: 1px;
+    background-color: chocolate;
+}
